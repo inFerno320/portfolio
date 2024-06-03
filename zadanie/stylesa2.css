@@ -1,0 +1,23 @@
+body {
+    background-image: url(tlo.avif);
+    background-size: 1300px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+b {
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+    text-shadow: 0px 0px 2px rgb(128, 128, 128);
+}
+h1 {
+    text-align: center;
+}
+div {
+    margin-top: 50px;
+}
+#i1 {
+    height: 350px;
+    margin-left: 650px;
+    margin-top: 60px;
+    border: 1px solid black;
+}
