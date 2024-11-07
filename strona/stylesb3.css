@@ -1,0 +1,36 @@
+body {
+    background-image: url(c.webp);
+    background-size: 1300px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+b {
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+    text-shadow: 0px 0px 2px rgb(128, 128, 128);
+}
+#i1 {
+    height: 350px;
+    margin-left: 800px;
+    margin-top: 60px;
+    border: 1px solid black;
+}
+#i2 {
+    height: 350px;
+    margin-left: 750px;
+    margin-top: 60px;
+    border: 1px solid black;
+}
+#d2 {
+    margin-top: 100px;
+}
+#d3 {
+    margin-top: 100px;
+}
+#d4 {
+    margin-top: 100px;
+}
+#d5 {
+    margin-top: 100px;
+}
+

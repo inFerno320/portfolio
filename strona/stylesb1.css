@@ -1,0 +1,22 @@
+body {
+    background-image: url(c.webp);
+    background-size: 1300px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+b {
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+    text-shadow: 0px 0px 2px rgb(128, 128, 128);
+}
+#i1 {
+    height: 350px;
+    border: 1px solid black;
+}
+table {
+    margin-top: 50px;
+    margin-left: 70px;
+}
+#d2 {
+    margin-top: 50px;
+}

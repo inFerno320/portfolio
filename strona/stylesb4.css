@@ -1,0 +1,30 @@
+body {
+    background-image: url(c.webp);
+    background-size: 1300px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1 {
+    text-align: center;
+    color:rgb(255, 255, 255);
+    text-shadow: 0px 0px 2px rgb(128, 128, 128);color: white;
+}
+h2 {
+    color:rgb(255, 255, 255);
+    text-shadow: 0px 0px 2px rgb(128, 128, 128);
+}
+#d1 {
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+    text-shadow: 0px 0px 2px rgb(128, 128, 128);
+}
+#i1 {
+    height: 350px;
+    border: 1px solid black;
+}
+#i2 {
+    height: 350px;
+}
+table {
+    margin-left: 190px;
+}
